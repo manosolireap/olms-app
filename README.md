@@ -1,2 +1,2 @@
-# libapp
+# olms-app
 online library management system
